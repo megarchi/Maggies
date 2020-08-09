@@ -43,8 +43,8 @@ h4{
   font-family: 'Times New Roman', Times, serif;
   font-style: italic ;
   font-size: 45px ;
-
 }
+
 p{
     color: slategray;
     text-align: center;
@@ -60,15 +60,30 @@ a{
   font-family: 'Times New Roman', Times, serif;
   font-size: 30px ;
 }
-
 div{
 text-align: center;
 }
 
-@media screen and (max-width:160px){
+@media screen and (max-width:960px) {
+.column{
+flex: 33.33%;
+}
+}
+
+@media screen and (max-width:768px){
+.column{
+flex: 50%;
+}
+}
+
+@media screen and (max-width:480px){
+.column{
+flex: 100%;
+}
+}
+
+@media screen and (max-width:300px){
   .column{
-  width: 100%;
-  display:block;
-  margin-bottom: 20px;
+  flex: 100%;
   }
-  }  
+  }
