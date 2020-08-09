@@ -65,7 +65,7 @@ div{
 text-align: center;
 }
 
-@media screen and (max-width:320px){
+@media screen and (max-width:160px){
   .column{
   width: 100%;
   display:block;
