@@ -52,8 +52,6 @@ p{
     font-size: 36px ;
     letter-spacing: 3px;
     line-height: 60px;
-    columns: 3;
-    column-gap: 60px;
 }
 
 a{
@@ -62,14 +60,15 @@ a{
   font-family: 'Times New Roman', Times, serif;
   font-size: 30px ;
 }
+
 div{
 text-align: center;
 }
 
-@media screen and (max-width:320px) {
-.column{
-  width:100%;
+@media screen and (max-width:320px){
+  .column{
+  width: 100%;
   display:block;
-  margin-bottom;20px;
-}
-}
+  margin-bottom: 20px;
+  }
+  }  
