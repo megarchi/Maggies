@@ -6,4 +6,4 @@ Presence of a <div> element with corresponding id="img-div"and centralized.
 Within the "img-div" element, <img> element with a corresponding id="image" was created.
 Presence of element with a corresponding id="tribute-info", which contains textual content describing the subject of the tribute page.
 A <p> element with corresponding img-caption
-Presence of an <a> element with a corresponding id="tribute-link", which links the outside site that contains additional information about the subject of the tribute page.  
+Presence of an <a> element with a corresponding id="tribute-link", which links the outside site that contains additional information about the subject of the tribute page.
