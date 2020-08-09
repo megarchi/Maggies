@@ -1,6 +1,6 @@
 # Maggies
 
-A TRIBUTE PAGE OF NARUTO UZUMAKI
+TRIBUTE TO NARUTO UZUMAKI
 
 I made a web title with Margaret
 My tribute page should has a main <div> element with corresponding id="main", which contains all other elements.
