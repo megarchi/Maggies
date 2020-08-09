@@ -1,4 +1,6 @@
 # Maggies
+A TRIBUTE PAGE OF NARUTO UZUMAKI
+
 I made a web title with Margaret
 My tribute page should has a main <div> element with corresponding id="main", which contains all other elements.
  Created a <h1> and <h2> element with corresponding id="title" and id="sub-title", which  describes the subject of the tribute page (i.e. "TRIBUTE TO NARUTO UZUMAKI" and "Hero of the Hidden Leaf").
